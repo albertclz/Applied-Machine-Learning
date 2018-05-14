@@ -1,0 +1,16 @@
+8a82f54 HEAD@{0}: commit: Add file 9
+10947f1 HEAD@{1}: checkout: moving from master to debug
+8e7baa9 HEAD@{2}: rebase finished: returning to refs/heads/master
+8e7baa9 HEAD@{3}: rebase: Add file 5
+d31db27 HEAD@{4}: rebase: Add file 4
+53abf8d HEAD@{5}: rebase: checkout feature
+6fe4526 HEAD@{6}: checkout: moving from feature to master
+53abf8d HEAD@{7}: commit: Add file 8
+9a8c513 HEAD@{8}: commit: Add file 7
+324fdf6 HEAD@{9}: commit: Add file 6
+72ce765 HEAD@{10}: checkout: moving from master to feature
+6fe4526 HEAD@{11}: commit: Add file 5
+aff10a8 HEAD@{12}: commit: Add file 4
+10947f1 HEAD@{13}: commit: Add file 3
+451f7b7 HEAD@{14}: commit: Add file 2
+72ce765 HEAD@{15}: commit (initial): Add file 1
