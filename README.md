@@ -1,16 +1,22 @@
 Applied Machine Learning Projects 
 
-HW1: Task 1 Git
+HW1: 
+     
+     Task 1 Git
      
      Task 2 Continuous integration
      
      Task 3 Data Visualization and Analysis(matplotlib)
      
-HW2: Task 1 Regression on California House prices
+HW2: 
+
+     Task 1 Regression on California House prices
      
      Task 2 Classification on the Covertype Dataset
      
-HW3: Task 1 Linear Models
+HW3: 
+
+     Task 1 Linear Models
      
      Task 2 Feature Engineering
      
@@ -18,7 +24,9 @@ HW3: Task 1 Linear Models
      
      Task 4 Feature Selections
 
-HW4: Task 1 Visualization of dimension reduction methods
+HW4: 
+
+     Task 1 Visualization of dimension reduction methods
      
      Task 2 KMeans, Agglomerative Clustering and DBSCAN to cluster the data
      
@@ -26,13 +34,17 @@ HW4: Task 1 Visualization of dimension reduction methods
      
      Task 4 Imbalanced Classification using LogisticRegression and RandomForestClassifier
     
-HW5: Task 1 Imbalanced text classification
+HW5: 
+
+     Task 1 Imbalanced text classification
      
      Task 2 Feature Tuning
      
      Task 3 n-grams
      
-HW6: Task 1 multilayer perceptron
+HW6: 
+
+     Task 1 multilayer perceptron
      
      Task 2 Convolutional neural network on the ​SVHN dataset
      
