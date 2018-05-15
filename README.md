@@ -46,7 +46,7 @@ HW6:
 
      Task 1 multilayer perceptron
      
-     Task 2 Convolutional neural network on the ​SVHN dataset
+     Task 2 Convolutional neural network on the SVHN dataset
      
      Task 3 Pet Recognizer by pre-trained convolutional neural network
 
